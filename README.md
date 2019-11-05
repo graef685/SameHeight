@@ -1,9 +1,9 @@
 # SameHeight - jQuery Plugin
 
-![](https://img.shields.io/npm/v/jquery-same-height.svg)
-![](https://img.shields.io/npm/l/jquery-same-height.svg)
+![](https://img.shields.io/npm/v/@graef685/jquery-same-height.svg)
+![](https://img.shields.io/npm/l/@graef685/jquery-same-height.svg)
 ![](https://img.shields.io/github/size/graef685/SameHeight/jquery.same-height.min.js)
-![](https://img.shields.io/npm/dt/jquery-same-height.svg)
+![](https://img.shields.io/npm/dt/@graef685/jquery-same-height.svg)
 
 Normalizes the height of a set of elements given by jQuery selector.
 Takes the highest height of of all given elements and applies it to the others.
