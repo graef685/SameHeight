@@ -1,0 +1,30 @@
+{
+  "name": "jquery-same-height",
+  "title": "jQuery SameHeight",
+  "version": "0.1.0",
+  "description": "jQuery plugin: normalize height of html elements",
+  "keywords": [
+    "same",
+    "height",
+    "jquery"
+  ],
+  "main": "server.js",
+  "scripts": {
+    "preinstall": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graef685/SameHeight.git"
+  },
+  "author": "Patrick Gräf",
+  "license": "GPL",
+  "docs": "https://github.com/graef685/SameHeight",
+  "bugs": {
+    "url": "https://github.com/graef685/SameHeight/issues"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  },
+  "homepage": "https://github.com/graef685/SameHeight",
+  "dependencies": {}
+}
