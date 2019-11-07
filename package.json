@@ -1,5 +1,5 @@
 {
-  "name": "jquery-same-height",
+  "name": "jquery-sync-height",
   "title": "jQuery SameHeight",
   "version": "0.1.0",
   "description": "jQuery plugin: normalize height of html elements",
