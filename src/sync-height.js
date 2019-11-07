@@ -1,5 +1,5 @@
 (function($) {
-    $.fn.sameHeight = function() {
+    $.fn.syncHeight = function() {
         var selector  = this;
         var maxHeight = -1;
 
